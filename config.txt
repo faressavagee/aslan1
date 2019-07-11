@@ -1,4 +1,4 @@
-token=process.env.BOT_TOKEN
+token=process.env.BOT_TOKEN=NTk4OTM3NTM1MTQxNTExMTY4.XSd-Kg.NrhMtMxu6WLiZ_-VEOUfp0RMLXo
 owner=540654145355382784
 prefix=1
 game=Aslan
