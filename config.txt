@@ -1,6 +1,6 @@
-token=
-owner=ID 
+token=process.env.BOT_TOKEN
+owner=540654145355382784
 prefix=1
-game=type 1help
+game=Aslan
 stayinchannel=true
 songinstatus=true
